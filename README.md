@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizul Vaidya</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Stock Market Prediction](https://github.com/Rizulv/Stock_Market_Prediction_Using_Deep_Learning)
-
 - 📫 How to reach me **rizulv.jpr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
